@@ -2,7 +2,7 @@
 
 ![Imagem do Projeto](./src/assets/printscreen.png)
 
-##Hospedagem do site
+## Hospedagem do site
 
 O site está hospedado no domínio: https://teste-wefit-react.netlify.app
 
